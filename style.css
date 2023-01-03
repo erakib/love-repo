@@ -3,5 +3,6 @@ h3{
 }
 p{
     background-color: grey;
-    border: 5px solid black;
+    font-size: 18px;
+    font-weight: 600;
 }
